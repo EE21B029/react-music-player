@@ -8,7 +8,7 @@ A responsive React-based music player web app featuring 15 popular Hindi & Telug
 
 ## Live Demo
 
-(Deploy this on Vercel, Netlify or CodeSandbox to share a live demo.)
+https://react-music-player-topaz.vercel.app/
 
 ---
 
